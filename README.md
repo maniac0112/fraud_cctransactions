@@ -1,4 +1,4 @@
-# fraud_cctransactions
+Detecting Fraudelent credit card transactions
 
 A simple logistic classifier (using sklearn) built in python to detect fraudulent credit card transactions 
 
